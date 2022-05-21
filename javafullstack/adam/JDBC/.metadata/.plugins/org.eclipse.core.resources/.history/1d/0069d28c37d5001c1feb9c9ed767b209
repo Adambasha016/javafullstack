@@ -1,0 +1,12 @@
+package org;
+
+import java.awt.datatransfer.SystemFlavorMap;
+
+public class Girl 
+{
+	void takingselfie()
+	{
+		System.out.println("mohan is taking by closing eyes");
+	}
+
+}
